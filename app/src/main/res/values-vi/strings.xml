@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Quản Lý Chi Tiêu Campus</string>
+
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="confirm_password">Xác nhận mật khẩu</string>
+
+    <string name="login_title">Chào mừng đến Campus Expense</string>
+    <string name="login_subtitle">Đăng nhập để quản lý chi tiêu</string>
+    <string name="register_title">Tạo tài khoản</string>
+    <string name="register_subtitle">Bắt đầu quản lý chi tiêu của bạn</string>
+
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="dont_have_account">Chưa có tài khoản?</string>
+    <string name="already_have_account">Đã có tài khoản?</string>
+    <string name="sign_up_here">Đăng ký</string>
+    <string name="sign_in_here">Đăng nhập</string>
+
+    <string name="error_empty_username">Vui lòng nhập tên đăng nhập</string>
+    <string name="error_empty_password">Vui lòng nhập mật khẩu</string>
+    <string name="error_password_length">Mật khẩu phải có ít nhất 6 ký tự</string>
+    <string name="error_password_mismatch">Mật khẩu không khớp</string>
+    <string name="error_username_exists">Tên đăng nhập đã tồn tại</string>
+    <string name="error_invalid_credentials">Sai tên đăng nhập hoặc mật khẩu</string>
+
+    <string name="login_success">Đăng nhập thành công!</string>
+    <string name="register_success">Đăng ký thành công!</string>
+
+    <string name="welcome">Chào mừng</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="logged_in_message">Bạn đã đăng nhập thành công</string>
+    <string name="register_failed">Đăng ký tài khoản thất bại.</string>
+
+    <string name="manage_categories">Quản lý danh mục</string>
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_transaction">Giao dịch</string>
+    <string name="nav_add">Thêm</string>
+    <string name="nav_budget">Ngân sách</string>
+    <string name="nav_account">Tài khoản</string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xóa</string>
+
+    <!-- Category -->
+    <string name="add_category">Thêm danh mục</string>
+    <string name="category_name">Tên danh mục</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+    <string name="delete_category">Xóa danh mục</string>
+    <string name="confirm_delete_category">Bạn có chắc muốn xóa danh mục này?</string>
+    <string name="error_empty_category_name">Vui lòng nhập tên danh mục</string>
+    <string name="category_added">Đã thêm danh mục</string>
+    <string name="category_updated">Cập nhật danh mục thành công</string>
+    <string name="category_deleted">Xóa danh mục thành công</string>
+
+    <string name="budget_management">Quản lý ngân sách</string>
+    <string name="budget_subtitle">Chi tiết ngân sách</string>
+    <string name="no_budget">Chưa có ngân sách</string>
+    <string name="delete_budget">Xóa ngân sách</string>
+    <string name="confirm_delete_budget">Bạn có chắc muốn xóa ngân sách này?</string>
+    <string name="budget_deleted_successfully">Xóa ngân sách thành công</string>
+
+    <string name="nav_expense">Chi tiêu</string>
+    <string name="select_date">Chọn ngày</string>
+    <string name="expense_management">Quản lý chi tiêu</string>
+    <string name="total_expense">Tổng chi tiêu</string>
+    <string name="no_expenses">Chưa có chi tiêu</string>
+    <string name="spent">Đã chi</string>
+
+    <string name="tab_by_category">Theo danh mục</string>
+    <string name="tab_by_date">Theo ngày</string>
+    <string name="transaction_count">Số lượng giao dịch</string>
+    <string name="all_categories">Tất cả danh mục</string>
+    <string name="expense_title">Chi tiêu: %1$s</string>
+    <string name="no_transactions">Chưa có giao dịch</string>
+    <string name="transactions">Giao dịch</string>
+    <string name="over_budget">Vượt %.0f%%</string>
+    <string name="today">Hôm nay</string>
+    <string name="yesterday">Hôm qua</string>
+
+    <string name="delete_expense">Xóa chi tiêu</string>
+    <string name="confirm_delete_expense">Bạn có chắc muốn xóa chi tiêu này?</string>
+    <string name="expense_added">Thêm chi tiêu thành công</string>
+    <string name="expense_updated">Cập nhật chi tiêu thành công</string>
+    <string name="expense_deleted">Xóa chi tiêu thành công</string>
+
+</resources>
